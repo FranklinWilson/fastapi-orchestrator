@@ -1,0 +1,13 @@
+[flake8]
+max-line-length = 160
+exclude =.git
+    __pycache__
+    .venv
+    .vscode
+    .gitignore
+    dockerfile
+    README.MD
+    requirements.txt
+    run_orchestrator.sh
+    run_orchestrator_dockerised.sh
+    test.db

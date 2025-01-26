@@ -1,0 +1,31 @@
+'''
+WMO Weather interpretation codes
+'''
+_WEATHER_CODES = {
+    0: "Clear",
+    1: "Cloudy",
+    2: "Cloudy",
+    3: "Cloudy",
+    45: "Foggy",
+    48: "Foggy",
+    51: "Light rain or showers",
+    53: "Light rain or showers",
+    55: "Light rain or showers",
+    61: "Rain",
+    63: "Rain",
+    65: "Rain",
+    66: "Rain",
+    67: "Rain",
+    71: "Snow",
+    73: "Snow",
+    75: "Snow",
+    77: "Snow",
+    80: "Showers",
+    81: "Showers",
+    82: "Showers",
+    85: "Snowy",
+    86: "Snowy",
+    95: "Thunderstorm",
+    96: "Thunderstorm",
+    99: "Thunderstorm",
+}
